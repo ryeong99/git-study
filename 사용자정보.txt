@@ -1,2 +1,3 @@
 username: ryeong99
 email:  lovolvo1015@kakao.com
+name: jeong
